@@ -64,7 +64,7 @@ h1, h2, h3, h4 { font-family:Arial;}
 .blue_theme { width:12px !important; height:12px !important; background:#1b7fbd !important; border:1px solid #fff !important; cursor:pointer; padding:0 !important;  margin:0 0 0 20px !important;}
 .top_banner { height:120px; width:100%; background:transparent;}
 .in_banner { width:100%; margin:0 auto; height:120px; background:transparent; }
-.banner_text { float:left; width:1000px; margin:37px 0 0 15px;  text-align:left;  }
+.banner_text { float:left; width:1000px; margin:37px 0 0 30px;  text-align:left;  }
 .banner_text h1 { font-size:25pt;  color:#fbfff2; margin:0; padding:0; font-weight:normal; font-family: 'Shrikhand', cursive; }
 .banner_text h2 { font-size:25pt; color:#fbfff2; margin:0; margin-top: -20px; padding:0;  font-weight:normal;  font-family: 'Noticia Text', serif; }
 .glogo { width:102px; height:120px; float:left; margin:0px 5px 0 5px;} 

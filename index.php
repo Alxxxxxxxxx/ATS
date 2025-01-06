@@ -43,23 +43,24 @@ body::after {
     position: fixed;
     left: 0;
     top: 0;
-    width: 800px;
+    width: 550px;
     height: 100vh;
     background-color: #ab140a;
     color: white;
     padding: 20px;
-    clip-path: path('M 0 0 C 300 30, 100 300, 200 330 C 500 400, 200 500, 500 700 C 900 800, 1000 1000, 500 1000 L 0 1000 Z');
+    clip-path: path('M 0 0 C 250 20, 50 150, 260 220 C 500 300, 200 500, 450 660 C 700 800, 1000 1000, 500 1000 L 0 1000 Z');
     z-index: -1;
 }
 
 .wavy-sidebar ul {
     list-style: none;
     padding: 0;
+    margin-top: 150px;
 }
 
 .wavy-sidebar li {
-    margin: 20px 0;
-    font-size: 18px;
+    margin-top: 30px 0;
+    font-size: 30px;
 }
 
 /* Footer Styles */
@@ -178,9 +179,8 @@ function MM_effectBlind(targetElement, duration, from, to, toggle)
     <div class="wavy-sidebar">
     <ul>
         <li>Home</li>
-        <li>About</li>
-        <li>Services</li>
-        <li>Contact</li>
+        <li>SHJCS</li>
+        <li>Alumni Tracker</li>
     </ul>
 </div>
     <div class="cleaner">
