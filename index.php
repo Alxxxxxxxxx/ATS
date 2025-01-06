@@ -43,12 +43,12 @@ body::after {
     position: fixed;
     left: 0;
     top: 0;
-    width: 550px;
+    width: 800px;
     height: 100vh;
     background-color: #ab140a;
     color: white;
     padding: 20px;
-    clip-path: path('M 0 0 C 250 20, 50 150, 260 220 C 500 300, 200 500, 450 660 C 700 800, 1000 1000, 500 1000 L 0 1000 Z');
+    clip-path: path('M 0 0 C 250 20, 50 150, 260 220 C 500 300, 200 500, 450 660 C 700 800, 1000 1000, 600 1000 L 0 1000 Z');
     z-index: -1;
 }
 
@@ -59,7 +59,7 @@ body::after {
 }
 
 .wavy-sidebar li {
-    margin-top: 30px 0;
+    margin: 20px 0;
     font-size: 30px;
 }
 
